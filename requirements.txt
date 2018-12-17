@@ -1,0 +1,9 @@
+beautifulsoup4==4.6
+tinydb
+urllib3
+xlsxwriter
+lxml
+google-cloud-texttospeech
+google-cloud-firestore
+google-cloud-storage
+flask

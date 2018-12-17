@@ -1,0 +1,5 @@
+output_files/*
+.DS_Store
+gc.json
+__pycache__/
+mobile/node_modules/
